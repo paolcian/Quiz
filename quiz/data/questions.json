@@ -9,6 +9,7 @@
 
         }
     },
+    
     {
         "question": "Czy hoisting w JS w zmiennych jest dobry?",
         "answers": {
