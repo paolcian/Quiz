@@ -1,0 +1,21 @@
+[
+    {
+        "question": "W jaki sposób deklarujemy zmienne w JS?",
+        "answers": {
+            "const, let, ver": 0.9,
+            "const, let": 1,
+            "var": -4,
+            "NOWAZMIENNA": 0
+
+        }
+    },
+    {
+        "question": "Czy hoisting w JS w zmiennych jest dobry?",
+        "answers": {
+            "Tak": 0,
+            "Nie": 1,
+            "Nie ma, że dobrze czy nie": -4
+
+        }
+    }
+]
